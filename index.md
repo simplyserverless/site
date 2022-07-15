@@ -1,3 +1,1 @@
-# Welcome to Simply Serverless
-
-Serverless content coming soon!
+# Welcome to LaunchBarkly
